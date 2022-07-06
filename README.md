@@ -11,5 +11,9 @@
 ### IPFSにアップロードした画像
  <img src="./assets/ipfs.png">
 
+### フロントからアップロードした画像はこちら
+ <a href="https://testnets.opensea.io/assets/mumbai/0x970f75e1295314a78b317e3f27c8d6353bef009d/0">こちら</a>
+
 ### Munbaiにデプロイしたコントラクトのアドレス
   0x970F75E1295314A78b317E3f27c8d6353BEF009D
+
