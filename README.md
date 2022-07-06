@@ -1,6 +1,9 @@
 # MyNFTMaker
 コンテンツを分散型ストレージにアップロードしてNFTを作成するアプリのリポジトリです。
 
+## アプリイメージ
+ <img src="./assets/image.png">
+
 ### デプロイ用のコマンド
  1. `npx hardhat run scripts/run.js`
  2. `npx hardhat run scripts/deploy.js`
