@@ -5,7 +5,7 @@ function App() {
 
   return (
     <div className='App'>
-      <NftUploader></NftUploader>
+      <NftUploader/>
     </div>
   );
 }
