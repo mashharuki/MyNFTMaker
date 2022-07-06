@@ -9,7 +9,7 @@ const main = async () => {
     // デプロイする。
     await nftContract.deployed();
     console.log("Contract deployed to:", nftContract.address);
-
+    /*
     // mint1回目
     let txn = await nftContract.makeAnEpicNFT();
     await txn.wait();
@@ -19,6 +19,7 @@ const main = async () => {
     txn = await nftContract.makeAnEpicNFT();
     await txn.wait();
     console.log("Minted NFT #2");
+    */
 };
 
 // エラー処理を行っています。
